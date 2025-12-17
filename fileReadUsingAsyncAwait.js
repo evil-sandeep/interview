@@ -8,7 +8,7 @@ const reedFile=async()=>{
     console.log('File read success', data)
     }catch(e){
 console.log('An error occoured found ', e)
-    }
+    }sdsd
    
 }
 export default reedFile
