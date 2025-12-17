@@ -1,0 +1,1 @@
+hello this is write on using node fs write file 
